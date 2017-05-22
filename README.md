@@ -15,7 +15,7 @@
 
 ## Hosted
 
-Used GitHub Pages (http://pages.github.com) once pushed the repository.
+Used [GitHub Pages](http://pages.github.com) once pushed the repository.
 
 
 ## Testing
